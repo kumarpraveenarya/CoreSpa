@@ -1,0 +1,14 @@
+C:\aspcore\AspNetCoreSpa\src\AspNetCoreSpa.Infrastructure\bin\Debug\netcoreapp2.2\AspNetCoreSpa.Infrastructure.deps.json
+C:\aspcore\AspNetCoreSpa\src\AspNetCoreSpa.Infrastructure\bin\Debug\netcoreapp2.2\AspNetCoreSpa.Infrastructure.runtimeconfig.json
+C:\aspcore\AspNetCoreSpa\src\AspNetCoreSpa.Infrastructure\bin\Debug\netcoreapp2.2\AspNetCoreSpa.Infrastructure.runtimeconfig.dev.json
+C:\aspcore\AspNetCoreSpa\src\AspNetCoreSpa.Infrastructure\bin\Debug\netcoreapp2.2\AspNetCoreSpa.Infrastructure.dll
+C:\aspcore\AspNetCoreSpa\src\AspNetCoreSpa.Infrastructure\bin\Debug\netcoreapp2.2\AspNetCoreSpa.Infrastructure.pdb
+C:\aspcore\AspNetCoreSpa\src\AspNetCoreSpa.Infrastructure\bin\Debug\netcoreapp2.2\AspNetCoreSpa.Core.dll
+C:\aspcore\AspNetCoreSpa\src\AspNetCoreSpa.Infrastructure\bin\Debug\netcoreapp2.2\AspNetCoreSpa.Core.pdb
+C:\aspcore\AspNetCoreSpa\src\AspNetCoreSpa.Infrastructure\obj\Debug\netcoreapp2.2\AspNetCoreSpa.Infrastructure.csprojAssemblyReference.cache
+C:\aspcore\AspNetCoreSpa\src\AspNetCoreSpa.Infrastructure\obj\Debug\netcoreapp2.2\AspNetCoreSpa.Infrastructure.csproj.CoreCompileInputs.cache
+C:\aspcore\AspNetCoreSpa\src\AspNetCoreSpa.Infrastructure\obj\Debug\netcoreapp2.2\AspNetCoreSpa.Infrastructure.AssemblyInfoInputs.cache
+C:\aspcore\AspNetCoreSpa\src\AspNetCoreSpa.Infrastructure\obj\Debug\netcoreapp2.2\AspNetCoreSpa.Infrastructure.AssemblyInfo.cs
+C:\aspcore\AspNetCoreSpa\src\AspNetCoreSpa.Infrastructure\obj\Debug\netcoreapp2.2\AspNetCoreSpa.Infrastructure.csproj.CopyComplete
+C:\aspcore\AspNetCoreSpa\src\AspNetCoreSpa.Infrastructure\obj\Debug\netcoreapp2.2\AspNetCoreSpa.Infrastructure.dll
+C:\aspcore\AspNetCoreSpa\src\AspNetCoreSpa.Infrastructure\obj\Debug\netcoreapp2.2\AspNetCoreSpa.Infrastructure.pdb

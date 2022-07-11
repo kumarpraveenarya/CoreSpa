@@ -1,0 +1,11 @@
+C:\aspcore\AspNetCoreSpa\src\AspNetCoreSpa.Core\bin\Debug\netcoreapp2.2\AspNetCoreSpa.Core.deps.json
+C:\aspcore\AspNetCoreSpa\src\AspNetCoreSpa.Core\bin\Debug\netcoreapp2.2\AspNetCoreSpa.Core.runtimeconfig.json
+C:\aspcore\AspNetCoreSpa\src\AspNetCoreSpa.Core\bin\Debug\netcoreapp2.2\AspNetCoreSpa.Core.runtimeconfig.dev.json
+C:\aspcore\AspNetCoreSpa\src\AspNetCoreSpa.Core\bin\Debug\netcoreapp2.2\AspNetCoreSpa.Core.dll
+C:\aspcore\AspNetCoreSpa\src\AspNetCoreSpa.Core\bin\Debug\netcoreapp2.2\AspNetCoreSpa.Core.pdb
+C:\aspcore\AspNetCoreSpa\src\AspNetCoreSpa.Core\obj\Debug\netcoreapp2.2\AspNetCoreSpa.Core.csprojAssemblyReference.cache
+C:\aspcore\AspNetCoreSpa\src\AspNetCoreSpa.Core\obj\Debug\netcoreapp2.2\AspNetCoreSpa.Core.csproj.CoreCompileInputs.cache
+C:\aspcore\AspNetCoreSpa\src\AspNetCoreSpa.Core\obj\Debug\netcoreapp2.2\AspNetCoreSpa.Core.AssemblyInfoInputs.cache
+C:\aspcore\AspNetCoreSpa\src\AspNetCoreSpa.Core\obj\Debug\netcoreapp2.2\AspNetCoreSpa.Core.AssemblyInfo.cs
+C:\aspcore\AspNetCoreSpa\src\AspNetCoreSpa.Core\obj\Debug\netcoreapp2.2\AspNetCoreSpa.Core.dll
+C:\aspcore\AspNetCoreSpa\src\AspNetCoreSpa.Core\obj\Debug\netcoreapp2.2\AspNetCoreSpa.Core.pdb

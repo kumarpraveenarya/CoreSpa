@@ -1,0 +1,117 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\aspcore\\AspNetCoreSpa\\src\\AspNetCoreSpa.STS\\AspNetCoreSpa.STS.csproj": {}
+  },
+  "projects": {
+    "C:\\aspcore\\AspNetCoreSpa\\src\\AspNetCoreSpa.STS\\AspNetCoreSpa.STS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\aspcore\\AspNetCoreSpa\\src\\AspNetCoreSpa.STS\\AspNetCoreSpa.STS.csproj",
+        "projectName": "AspNetCoreSpa.STS",
+        "projectPath": "C:\\aspcore\\AspNetCoreSpa\\src\\AspNetCoreSpa.STS\\AspNetCoreSpa.STS.csproj",
+        "packagesPath": "C:\\Users\\Praveen Kumar\\.nuget\\packages\\",
+        "outputPath": "C:\\aspcore\\AspNetCoreSpa\\src\\AspNetCoreSpa.STS\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\aspcore\\AspNetCoreSpa\\NuGet.Config",
+          "C:\\Users\\Praveen Kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\aspcore": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnet.myget.org/F/aspnetcore-ci-dev/api/v3/index.json": {},
+          "https://dotnet.myget.org/F/aspnetcore-dev/api/v3/index.json": {},
+          "https://dotnet.myget.org/F/dotnet-core/api/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "BuildBundlerMinifier": {
+              "target": "Package",
+              "version": "[2.8.391, )"
+            },
+            "IdentityModel": {
+              "target": "Package",
+              "version": "[3.10.6, )"
+            },
+            "IdentityServer4": {
+              "target": "Package",
+              "version": "[2.3.2, )"
+            },
+            "IdentityServer4.AspNetIdentity": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "IdentityServer4.EntityFramework": {
+              "target": "Package",
+              "version": "[2.3.2, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Authentication.OpenIdConnect": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Azure.KeyVault": {
+              "target": "Package",
+              "version": "[3.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[2.2.1, )"
+            },
+            "Microsoft.IdentityModel.Clients.ActiveDirectory": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.4.4, )"
+            },
+            "Sendgrid": {
+              "target": "Package",
+              "version": "[9.10.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

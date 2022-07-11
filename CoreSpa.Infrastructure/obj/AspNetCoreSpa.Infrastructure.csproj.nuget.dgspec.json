@@ -1,0 +1,154 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\aspcore\\AspNetCoreSpa\\src\\AspNetCoreSpa.Infrastructure\\AspNetCoreSpa.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "C:\\aspcore\\AspNetCoreSpa\\src\\AspNetCoreSpa.Core\\AspNetCoreSpa.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\aspcore\\AspNetCoreSpa\\src\\AspNetCoreSpa.Core\\AspNetCoreSpa.Core.csproj",
+        "projectName": "AspNetCoreSpa.Core",
+        "projectPath": "C:\\aspcore\\AspNetCoreSpa\\src\\AspNetCoreSpa.Core\\AspNetCoreSpa.Core.csproj",
+        "packagesPath": "C:\\Users\\Praveen Kumar\\.nuget\\packages\\",
+        "outputPath": "C:\\aspcore\\AspNetCoreSpa\\src\\AspNetCoreSpa.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\aspcore\\AspNetCoreSpa\\NuGet.Config",
+          "C:\\Users\\Praveen Kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\aspcore": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnet.myget.org/F/aspnetcore-ci-dev/api/v3/index.json": {},
+          "https://dotnet.myget.org/F/aspnetcore-dev/api/v3/index.json": {},
+          "https://dotnet.myget.org/F/dotnet-core/api/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\aspcore\\AspNetCoreSpa\\src\\AspNetCoreSpa.Infrastructure\\AspNetCoreSpa.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\aspcore\\AspNetCoreSpa\\src\\AspNetCoreSpa.Infrastructure\\AspNetCoreSpa.Infrastructure.csproj",
+        "projectName": "AspNetCoreSpa.Infrastructure",
+        "projectPath": "C:\\aspcore\\AspNetCoreSpa\\src\\AspNetCoreSpa.Infrastructure\\AspNetCoreSpa.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Praveen Kumar\\.nuget\\packages\\",
+        "outputPath": "C:\\aspcore\\AspNetCoreSpa\\src\\AspNetCoreSpa.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\aspcore\\AspNetCoreSpa\\NuGet.Config",
+          "C:\\Users\\Praveen Kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\aspcore": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnet.myget.org/F/aspnetcore-ci-dev/api/v3/index.json": {},
+          "https://dotnet.myget.org/F/aspnetcore-dev/api/v3/index.json": {},
+          "https://dotnet.myget.org/F/dotnet-core/api/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\aspcore\\AspNetCoreSpa\\src\\AspNetCoreSpa.Core\\AspNetCoreSpa.Core.csproj": {
+                "projectPath": "C:\\aspcore\\AspNetCoreSpa\\src\\AspNetCoreSpa.Core\\AspNetCoreSpa.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "OpenIddict": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "OpenIddict.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
