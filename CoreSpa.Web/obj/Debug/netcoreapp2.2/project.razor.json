@@ -2,4 +2,18 @@
   "FilePath": "c:\\Interview\\Learning\\Interview Tests\\CoreSpa\\CoreSpa.Web\\AspNetCoreSpa.Web.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-2.1",
-    "LanguageVersion":
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 1000
+  },
+  "RootNamespace": "AspNetCoreSpa.Web",
+  "Documents": [],
+  "SerializationFormat": "0.2"
+}

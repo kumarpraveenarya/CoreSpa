@@ -2,4 +2,249 @@
   "FilePath": "c:\\Interview\\Learning\\Interview Tests\\CoreSpa\\CoreSpa.STS\\AspNetCoreSpa.STS.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-2.1",
-    "LanguageVersion":
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 703
+  },
+  "RootNamespace": "AspNetCoreSpa.STS",
+  "Documents": [
+    {
+      "FilePath": "c:\\Interview\\Learning\\Interview Tests\\CoreSpa\\CoreSpa.STS\\Views\\Manage\\_StatusMessage.cshtml",
+      "TargetPath": "Views\\Manage\\_StatusMessage.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Interview\\Learning\\Interview Tests\\CoreSpa\\CoreSpa.STS\\Views\\Account\\ExternalLoginConfirmation.cshtml",
+      "TargetPath": "Views\\Account\\ExternalLoginConfirmation.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Interview\\Learning\\Interview Tests\\CoreSpa\\CoreSpa.STS\\Views\\Consent\\Index.cshtml",
+      "TargetPath": "Views\\Consent\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Interview\\Learning\\Interview Tests\\CoreSpa\\CoreSpa.STS\\Views\\Account\\VerifyCode.cshtml",
+      "TargetPath": "Views\\Account\\VerifyCode.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Interview\\Learning\\Interview Tests\\CoreSpa\\CoreSpa.STS\\Views\\Manage\\_Layout.cshtml",
+      "TargetPath": "Views\\Manage\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Interview\\Learning\\Interview Tests\\CoreSpa\\CoreSpa.STS\\Views\\Manage\\TwoFactorAuthentication.cshtml",
+      "TargetPath": "Views\\Manage\\TwoFactorAuthentication.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Interview\\Learning\\Interview Tests\\CoreSpa\\CoreSpa.STS\\Views\\Account\\ConfirmEmail.cshtml",
+      "TargetPath": "Views\\Account\\ConfirmEmail.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Interview\\Learning\\Interview Tests\\CoreSpa\\CoreSpa.STS\\Views\\Manage\\ResetAuthenticator.cshtml",
+      "TargetPath": "Views\\Manage\\ResetAuthenticator.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Interview\\Learning\\Interview Tests\\CoreSpa\\CoreSpa.STS\\Views\\Manage\\_ViewImports.cshtml",
+      "TargetPath": "Views\\Manage\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Interview\\Learning\\Interview Tests\\CoreSpa\\CoreSpa.STS\\Views\\Grants\\Index.cshtml",
+      "TargetPath": "Views\\Grants\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Interview\\Learning\\Interview Tests\\CoreSpa\\CoreSpa.STS\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Interview\\Learning\\Interview Tests\\CoreSpa\\CoreSpa.STS\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Interview\\Learning\\Interview Tests\\CoreSpa\\CoreSpa.STS\\Views\\Account\\SendCode.cshtml",
+      "TargetPath": "Views\\Account\\SendCode.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Interview\\Learning\\Interview Tests\\CoreSpa\\CoreSpa.STS\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Interview\\Learning\\Interview Tests\\CoreSpa\\CoreSpa.STS\\Views\\Diagnostics\\Index.cshtml",
+      "TargetPath": "Views\\Diagnostics\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Interview\\Learning\\Interview Tests\\CoreSpa\\CoreSpa.STS\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Interview\\Learning\\Interview Tests\\CoreSpa\\CoreSpa.STS\\Views\\Manage\\Disable2fa.cshtml",
+      "TargetPath": "Views\\Manage\\Disable2fa.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Interview\\Learning\\Interview Tests\\CoreSpa\\CoreSpa.STS\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Interview\\Learning\\Interview Tests\\CoreSpa\\CoreSpa.STS\\Views\\Account\\LoggedOut.cshtml",
+      "TargetPath": "Views\\Account\\LoggedOut.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Interview\\Learning\\Interview Tests\\CoreSpa\\CoreSpa.STS\\Views\\Shared\\_ValidationSummary.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationSummary.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Interview\\Learning\\Interview Tests\\CoreSpa\\CoreSpa.STS\\Views\\Account\\LoginWith2fa.cshtml",
+      "TargetPath": "Views\\Account\\LoginWith2fa.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Interview\\Learning\\Interview Tests\\CoreSpa\\CoreSpa.STS\\Views\\Manage\\GenerateRecoveryCodes.cshtml",
+      "TargetPath": "Views\\Manage\\GenerateRecoveryCodes.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Interview\\Learning\\Interview Tests\\CoreSpa\\CoreSpa.STS\\Views\\Consent\\_ScopeListItem.cshtml",
+      "TargetPath": "Views\\Consent\\_ScopeListItem.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Interview\\Learning\\Interview Tests\\CoreSpa\\CoreSpa.STS\\Views\\Manage\\DeletePersonalData.cshtml",
+      "TargetPath": "Views\\Manage\\DeletePersonalData.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Interview\\Learning\\Interview Tests\\CoreSpa\\CoreSpa.STS\\Views\\Manage\\_ManageNav.cshtml",
+      "TargetPath": "Views\\Manage\\_ManageNav.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Interview\\Learning\\Interview Tests\\CoreSpa\\CoreSpa.STS\\Views\\Account\\Login.cshtml",
+      "TargetPath": "Views\\Account\\Login.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Interview\\Learning\\Interview Tests\\CoreSpa\\CoreSpa.STS\\Views\\Manage\\ChangePassword.cshtml",
+      "TargetPath": "Views\\Manage\\ChangePassword.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Interview\\Learning\\Interview Tests\\CoreSpa\\CoreSpa.STS\\Views\\Manage\\SetPassword.cshtml",
+      "TargetPath": "Views\\Manage\\SetPassword.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Interview\\Learning\\Interview Tests\\CoreSpa\\CoreSpa.STS\\Views\\Manage\\DownloadPersonalData.cshtml",
+      "TargetPath": "Views\\Manage\\DownloadPersonalData.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Interview\\Learning\\Interview Tests\\CoreSpa\\CoreSpa.STS\\Views\\Shared\\_LoginPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_LoginPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Interview\\Learning\\Interview Tests\\CoreSpa\\CoreSpa.STS\\Views\\Account\\ForgotPassword.cshtml",
+      "TargetPath": "Views\\Account\\ForgotPassword.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Interview\\Learning\\Interview Tests\\CoreSpa\\CoreSpa.STS\\Views\\Manage\\ExternalLogins.cshtml",
+      "TargetPath": "Views\\Manage\\ExternalLogins.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Interview\\Learning\\Interview Tests\\CoreSpa\\CoreSpa.STS\\Views\\Account\\ResetPassword.cshtml",
+      "TargetPath": "Views\\Account\\ResetPassword.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Interview\\Learning\\Interview Tests\\CoreSpa\\CoreSpa.STS\\Views\\Account\\ForgotPasswordConfirmation.cshtml",
+      "TargetPath": "Views\\Account\\ForgotPasswordConfirmation.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Interview\\Learning\\Interview Tests\\CoreSpa\\CoreSpa.STS\\Views\\Manage\\ShowRecoveryCodes.cshtml",
+      "TargetPath": "Views\\Manage\\ShowRecoveryCodes.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Interview\\Learning\\Interview Tests\\CoreSpa\\CoreSpa.STS\\Views\\Account\\ExternalLoginFailure.cshtml",
+      "TargetPath": "Views\\Account\\ExternalLoginFailure.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Interview\\Learning\\Interview Tests\\CoreSpa\\CoreSpa.STS\\Views\\Manage\\Index.cshtml",
+      "TargetPath": "Views\\Manage\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Interview\\Learning\\Interview Tests\\CoreSpa\\CoreSpa.STS\\Views\\Account\\LoginWithRecoveryCode.cshtml",
+      "TargetPath": "Views\\Account\\LoginWithRecoveryCode.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Interview\\Learning\\Interview Tests\\CoreSpa\\CoreSpa.STS\\Views\\Account\\Register.cshtml",
+      "TargetPath": "Views\\Account\\Register.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Interview\\Learning\\Interview Tests\\CoreSpa\\CoreSpa.STS\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Interview\\Learning\\Interview Tests\\CoreSpa\\CoreSpa.STS\\Views\\Account\\Lockout.cshtml",
+      "TargetPath": "Views\\Account\\Lockout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Interview\\Learning\\Interview Tests\\CoreSpa\\CoreSpa.STS\\Views\\Shared\\_SelectLanguagePartial.cshtml",
+      "TargetPath": "Views\\Shared\\_SelectLanguagePartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Interview\\Learning\\Interview Tests\\CoreSpa\\CoreSpa.STS\\Views\\Account\\ResetPasswordConfirmation.cshtml",
+      "TargetPath": "Views\\Account\\ResetPasswordConfirmation.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Interview\\Learning\\Interview Tests\\CoreSpa\\CoreSpa.STS\\Views\\Manage\\EnableAuthenticator.cshtml",
+      "TargetPath": "Views\\Manage\\EnableAuthenticator.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Interview\\Learning\\Interview Tests\\CoreSpa\\CoreSpa.STS\\Views\\Account\\Logout.cshtml",
+      "TargetPath": "Views\\Account\\Logout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Interview\\Learning\\Interview Tests\\CoreSpa\\CoreSpa.STS\\Views\\Manage\\PersonalData.cshtml",
+      "TargetPath": "Views\\Manage\\PersonalData.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
+  "SerializationFormat": "0.2"
+}
